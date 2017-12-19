@@ -16,7 +16,6 @@ counter = 0
 counter2 = 0
 condition = False
 checker = 0
-blocks = [0,2,7,0]
 while checker == 0:
     max_value = max(blocks)
     max_index = blocks.index(max_value)
