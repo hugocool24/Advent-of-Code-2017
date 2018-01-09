@@ -1,4 +1,3 @@
-import time
 filename = 'input_day7.txt'
 f = open(filename,'rt')
 tower = []
